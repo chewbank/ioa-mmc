@@ -1,7 +1,8 @@
 {
   "name": "@chewbank/ioa-mmc",
-  "version": "9.11.2",
+  "version": "9.11.3",
   "dependencies": {
+    "@chewbank/consoln": "^1.0.3",
     "@chewbank/ormv": "^3.2.7"
   },
   "deprecated": false,
